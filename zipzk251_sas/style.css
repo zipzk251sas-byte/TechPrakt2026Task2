@@ -98,3 +98,6 @@ h1 {
     font-size: 34px;
   }
 }
+
+.news-card { border: 2px solid #2563eb; }
+.site-header { background: #dbeafe; }
