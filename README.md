@@ -8,3 +8,5 @@
 
 
 - Столяров Артем, група ЗІПЗк-25-1
+
+Email: stolyarovartem2005@gmail.com
