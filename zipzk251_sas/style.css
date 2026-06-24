@@ -88,3 +88,13 @@ h1 {
 .news-card:hover h2 {
   color: #2563eb;
 }
+
+@media (max-width: 900px) {
+  .news-grid {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 34px;
+  }
+}
