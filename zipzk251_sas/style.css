@@ -79,3 +79,12 @@ h1 {
   color: #4b5563;
   line-height: 1.6;
 }
+
+.news-card:hover {
+  transform: translateY(-6px);
+  transition: 0.2s ease;
+}
+
+.news-card:hover h2 {
+  color: #2563eb;
+}
